@@ -11,7 +11,7 @@ What is the difference between **ZenburnX** and Zenburn2012?
 About
 -----
 
-The main component of **ZenburnX** is "Fonts & Colors". They are specifically designed to allow hours of coding without making you want to stab your eyeballs out. Other components of the theme include my personal formatting preferences. The PHP formatting is based on the evolving PSR standard. The Fonts & Colors and formatting components can be installed separately.
+The main component of **ZenburnX** is "Fonts & Colors". It is specifically designed to allow hours of coding without making you want to stab your eyeballs out. Other components of the theme include my personal formatting preferences. The PHP formatting is based on the evolving PSR standard. The Fonts & Colors and formatting components can be installed separately.
 
 Screenshots
 -----------
