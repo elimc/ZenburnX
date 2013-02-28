@@ -16,10 +16,10 @@ The main component of `ZenburnX` is "Fonts & Colors". They are specifically desi
 Screenshots
 -----------
 
-![css file example](https://github.com/elimc/Zenburn2012/raw/master/images/css.png "CSS image")
-![htaccess file example](https://github.com/elimc/Zenburn2012/raw/master/images/htaccess.png "CSS image")
-![JS file example](https://github.com/elimc/Zenburn2012/raw/master/images/js.png "JS image")
-![PHP file example](https://github.com/elimc/Zenburn2012/raw/master/images/php.png "PHP image")
+![css file example](https://raw.github.com/elimc/ZenburnX/master/images/css.png "CSS image")
+![htaccess file example](https://raw.github.com/elimc/ZenburnX/master/images/htaccess.png "CSS image")
+![JS file example](https://raw.github.com/elimc/ZenburnX/master/images/js.png "JS image")
+![PHP file example](https://raw.github.com/elimc/ZenburnX/master/images/php.png "PHP image")
 
 FAQ
 ---
