@@ -70,4 +70,4 @@ Web site: www.elimcmakin.com
 
 GitHub: https://github.com/elimc
 
-**ZenburnX** Repository: https://github.com/elimc/**ZenburnX**
+**ZenburnX** Repository: https://github.com/elimc/ZenburnX
