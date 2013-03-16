@@ -1,5 +1,5 @@
 **ZenburnX**
-========
+============
 
 **ZenburnX** is a dark-background, low-contrast theme for the NetBeans IDE
 
@@ -49,6 +49,17 @@ Installation
 ------------
 
 If you are not used to cloning repositories in GitHub, download the archive called `ZenburnX.zip`. Now you must select the archive in NetBeans. Go to `Tools => Options => Font & Colors => Import => Browse...` Select the `All` button and then `OK`. **WARNING!** Make sure your work is saved before importing the theme. NetBeans will automatically restart to apply changes and you will lose any unsaved work.
+
+Changelog
+---------
+
+### 1.01 (March 15, 2013)
+* Theme file name corrected
+* New braces color for improved readability
+* Added changelog
+
+### 1.0 (February 27, 2013)
+* Initial commit
 
 Author
 ------
