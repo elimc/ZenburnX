@@ -47,7 +47,7 @@ Installation
 
 If you are not used to cloning repositories in GitHub, download the archive called `ZenburnX.zip`. Now you must select the archive in NetBeans. Go to `Tools => Options => Font & Colors => Import => Browse...` Select the `All` button and then `OK`. **WARNING!** Make sure your work is saved before importing the theme. NetBeans will automatically restart to apply changes and you will lose any unsaved work.
 
-If you download the entire git repository called `ZenburnX-master`, you will not be able to import this into NetBeans. There is a .zip file inside that zip file. It is called `ZenburnX.zip`. This is the file that you need to download.
+If you download the entire git repository called `ZenburnX-master`, you will not be able to import this into NetBeans. There is a .zip file inside that .zip file. It is called `ZenburnX.zip`. This is the file that you need to import into **NetBeans**.
 
 Changelog
 ---------
