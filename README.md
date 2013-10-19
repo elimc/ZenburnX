@@ -3,8 +3,10 @@
 
 **ZenburnX** is a dark-background, low-contrast theme for the NetBeans IDE
 
+The latest version of ZenBurn is compatible with **NetBeans 7.3**.
+
 What is the difference between **ZenburnX** and Zenburn2012?
---------------------------------------------------------
+------------------------------------------------------------
 
 **ZenburnX** is the next-generation version of **Zenburn2012**. It is a "living" theme. This means that development of the theme will be run in parallel with NetBeans releases. For example, if the latest version of NetBeans is released (NetBeans IDE X.X), you should check to see if **ZenburnX** has been updated on GitHub.
 
@@ -40,18 +42,19 @@ __Are you dissapointed that the NetBeans IDE looks like it was design by Compute
 
 Yes. But there isn't much I can do about it. The **ZenburnX** theme is the best I can do for the community at this point, unless the ability to change the look and feel gets better. I would love to make wireframes of the NetBeans interface to show them what their IDE could look like. Until then, we are stuck with the "Engineers Interface".
 
-Requirements
-------------
-
-Netbeans 7.3 or greater.
-
 Installation
 ------------
 
 If you are not used to cloning repositories in GitHub, download the archive called `ZenburnX.zip`. Now you must select the archive in NetBeans. Go to `Tools => Options => Font & Colors => Import => Browse...` Select the `All` button and then `OK`. **WARNING!** Make sure your work is saved before importing the theme. NetBeans will automatically restart to apply changes and you will lose any unsaved work.
 
+If you download the entire git repository called `ZenburnX-master`, you will not be able to import this into NetBeans. There is a .zip file inside that zip file. It is called `ZenburnX.zip`. This is the file that you need to download.
+
 Changelog
 ---------
+
+### 1.02 (October 19, 2013)
+* Better installation instructions in README
+* Realeases now tagged according to NetBeans version
 
 ### 1.01 (March 15, 2013)
 * Theme file name corrected
