@@ -3,7 +3,7 @@
 
 **ZenburnX** is a dark-background, low-contrast theme for the NetBeans IDE
 
-The latest version of ZenBurn is compatible with **NetBeans 7.3**.
+The latest version of ZenBurn is compatible with **NetBeans 7.4**.
 
 What is the difference between **ZenburnX** and Zenburn2012?
 ------------------------------------------------------------
@@ -51,6 +51,10 @@ If you download the entire git repository called `ZenburnX-master`, you will not
 
 Changelog
 ---------
+
+### 1.1 (October 19, 2013)
+* Code updated for NetBeans 7.4
+* Support for Latte Template
 
 ### 1.02 (October 19, 2013)
 * Better installation instructions in README
