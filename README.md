@@ -52,6 +52,10 @@ If you download the entire git repository called `ZenburnX-master`, you will not
 Changelog
 ---------
 
+### 1.1.1 (October 27, 2013)
+* Tested support for latte, twig, and smarty templates
+* Minor color tweaks
+
 ### 1.1 (October 19, 2013)
 * Code updated for NetBeans 7.4
 * Support for Latte Template
